@@ -1,0 +1,19 @@
+.red {
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.border {
+    border: 2px solid;
+    padding: 5px;
+    width: 40px;
+    margin-bottom: 10px;
+}
+
+.number {
+    display: block;
+    margin-left: 14px;
+}
